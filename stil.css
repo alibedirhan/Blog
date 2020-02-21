@@ -1,0 +1,25 @@
+body {
+	font-family:Tahoma;
+	font-size:12;
+	color: #ffffff;
+	background-image: url('/home/gausswell/Desktop/blog/images/background.jpg');
+}
+
+div {
+	margin-left:auto;
+	margin-right:auto;
+	width: 800px;
+	
+	font-family:Tahoma;
+	font-size:16;
+	color: #ffffff;
+}
+
+
+table {
+		text-align:justify;
+}
+
+a {
+	color: #ffffff;
+}
